@@ -1,4 +1,4 @@
-from random import randint
+import random
 #создаём пустой list
 my_list = []
 #переменная для итератора
